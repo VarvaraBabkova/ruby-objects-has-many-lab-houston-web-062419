@@ -18,6 +18,6 @@ class Author
     Post.all.size
   end
   def author_name
-    
+    @name
   end
 end
